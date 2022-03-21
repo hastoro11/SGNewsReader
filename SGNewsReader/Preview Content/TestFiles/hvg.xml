@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" >
+    <channel xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <title>hvg.hu RSS</title>
+        <description>hvg.hu RSS</description>
+        <link>http://hvg.hu/</link>
+        <language>hu-HU</language>
+        <copyright>hvg@hvg.hu</copyright>
+        <pubDate>Fri, 18 Mar 2022 22:21:13 GMT</pubDate>
+        <lastBuildDate>Fri, 18 Mar 2022 22:21:13 GMT</lastBuildDate>
+        <generator>hvg.hu</generator>
+        <ttl>20</ttl>
+        <image>
+            <title>hvg.hu</title>
+            <link>http://hvg.hu/</link>
+        </image>
+        <item>
+            <title>
+                <![CDATA[ Azonnali: Mégsem utazik Lengyelországba Áder a lengyel-magyar barátság napján ]]>
+            </title>
+            <description>
+                <![CDATA[ A lap úgy tudja, a lengyel elnök nem akar a magyarral mutatkozni. ]]>
+            </description>
+            <link>http://hvg.hu/itthon/20220318_ader_janos_andrzej_duda_lengyelorszag_magyarorszag#rss</link>
+            <author>hvg@hvg.hu</author>
+            <pubDate>Fri, 18 Mar 2022 21:15:00 GMT</pubDate>
+            <source url="http://hvg.hu/rss">hvg.hu</source>
+            <enclosure url="https://images.hvg.hu/image.aspx?id=8e470a83-dc4b-493d-ae44-be92b921e03c" type="image/jpeg" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[ A műholdfelvételek szerint több mariupoli városrész is szinte megsemmisült ]]>
+            </title>
+            <description>
+                <![CDATA[ Égő lakóházak, kiégett buszok és egy autókból álló karaván tűnt fel a Maxar műholdképein. ]]>
+            </description>
+            <link>http://hvg.hu/tudomany/20220318_muholdfelvetelek_mariupol#rss</link>
+            <author>hvg@hvg.hu</author>
+            <pubDate>Fri, 18 Mar 2022 20:57:00 GMT</pubDate>
+            <source url="http://hvg.hu/rss">hvg.hu</source>
+            <enclosure url="https://images.hvg.hu/image.aspx?id=d82a8258-a3e9-43d9-ad41-fb743b62a380" type="image/jpeg" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Marad a sapka az energiaárakon Romániában ]]>
+            </title>
+            <description>
+                <![CDATA[ Azoknak a villamosenergia-termelőknek, amelyek megawattóránként 450 lejnél drágábban adják a villanyáramot, 80 százalékos adót kell befizetniük a (450 lej feletti) többletnyereségre. ]]>
+            </description>
+            <link>http://hvg.hu/gazdasag/20220318_energiahordozok_ar_romania_kormany_rendelet#rss</link>
+            <author>hvg@hvg.hu</author>
+            <pubDate>Fri, 18 Mar 2022 20:25:00 GMT</pubDate>
+            <source url="http://hvg.hu/rss">hvg.hu</source>
+            <enclosure url="https://images.hvg.hu/image.aspx?id=818d6a30-4410-4bfc-ab1d-cb6a8cc29767" type="image/jpeg" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Tűzszünetet kért Scholz Putyintól ]]>
+            </title>
+            <description>
+                <![CDATA[ A Kreml szóvivője szerint a közel egyórás telefonbeszélgetés hangulatát aligha lehetett barátságosként jellemezni.  ]]>
+            </description>
+            <link>http://hvg.hu/vilag/20220318_olaf_scholz_vlagyimir_putyin_orosz_ukran_haboru#rss</link>
+            <author>hvg@hvg.hu</author>
+            <pubDate>Fri, 18 Mar 2022 20:06:00 GMT</pubDate>
+            <source url="http://hvg.hu/rss">hvg.hu</source>
+            <enclosure url="https://images.hvg.hu/image.aspx?id=0de1ad40-ec18-41f6-8a12-d31105144c64" type="image/jpeg" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[ ENSZ: 6,5 millió belső menekült van Ukrajnában, 3,2 millióan elmentek az országból ]]>
+            </title>
+            <description>
+                <![CDATA[ Ukrajna 44 milliós lakosságának már csaknem a negyede kényszerült otthona elhagyására. ]]>
+            </description>
+            <link>http://hvg.hu/vilag/20220318_ensz_menekult_ukrajna#rss</link>
+            <author>hvg@hvg.hu</author>
+            <pubDate>Fri, 18 Mar 2022 20:05:00 GMT</pubDate>
+            <source url="http://hvg.hu/rss">hvg.hu</source>
+            <enclosure url="https://images.hvg.hu/image.aspx?id=3cc49783-e3ed-4c9b-ab35-2995a9851ebd" type="image/jpeg" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Megszüntették a büntetőeljárást a plakátrongálással gyanúsított kutyapártos jelöltekkel szemben ]]>
+            </title>
+            <description>
+                <![CDATA[ Az ügyészség bűncselekmény hiányában szüntette meg az eljárást, a rendőrség a plakátokat és egy elemi szálat meg fog semmisíteni. Utóbbit még nem tudták beazonosítani a képviselőjelöltek. ]]>
+            </description>
+            <link>http://hvg.hu/itthon/20220318_buntetoeljaras_a_plakatrongalas_pecs_kutyapart#rss</link>
+            <author>hvg@hvg.hu</author>
+            <pubDate>Fri, 18 Mar 2022 19:42:00 GMT</pubDate>
+            <source url="http://hvg.hu/rss">hvg.hu</source>
+            <enclosure url="https://images.hvg.hu/image.aspx?id=7b500e2b-7b67-4cc2-8b08-b8708533d8a2" type="image/jpeg" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Kifizették a Sberbank-betétesek kártalanítását ]]>
+            </title>
+            <description>
+                <![CDATA[ Hátra vannak még azok, akik nem rendelkeztek a kártalanítási összegükről vagy tisztázni kell a jogosultságukat.  ]]>
+            </description>
+            <link>http://hvg.hu/gazdasag/20220318_sberbank_kartalanitas_oba#rss</link>
+            <author>hvg@hvg.hu</author>
+            <pubDate>Fri, 18 Mar 2022 19:31:00 GMT</pubDate>
+            <source url="http://hvg.hu/rss">hvg.hu</source>
+            <enclosure url="https://images.hvg.hu/image.aspx?id=3a2688ee-5d17-4c0c-be67-3196085105b6" type="image/jpeg" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Jelentős összegekkel támogatja Ukrajnát az EU ]]>
+            </title>
+            <description>
+                <![CDATA[ A pénzből az ukrán katasztrófavédelmet és a válságkezelést erősítheti Ukrajna.  ]]>
+            </description>
+            <link>http://hvg.hu/gazdasag/20220318_eu_ukrajna_penzugyi_tamogatas#rss</link>
+            <author>hvg@hvg.hu</author>
+            <pubDate>Fri, 18 Mar 2022 19:19:00 GMT</pubDate>
+            <source url="http://hvg.hu/rss">hvg.hu</source>
+            <enclosure url="https://images.hvg.hu/image.aspx?id=8f7c811f-5c0a-4ac5-93d3-d9e2476d0a27" type="image/jpeg" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Zelenszkij állítja, több mint 30 települést foglaltak vissza ]]>
+            </title>
+            <description>
+                <![CDATA[ Kijev környékén már a harmadik védelmi gyűrűt építik ki az ukránok.  ]]>
+            </description>
+            <link>http://hvg.hu/vilag/20220318_volodimir_zelenszkij_kijev_haboru#rss</link>
+            <author>hvg@hvg.hu</author>
+            <pubDate>Fri, 18 Mar 2022 19:08:00 GMT</pubDate>
+            <source url="http://hvg.hu/rss">hvg.hu</source>
+            <enclosure url="https://images.hvg.hu/image.aspx?id=28bffd05-85c4-4a3b-9905-b1e6ce49234a" type="image/jpeg" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Arcfelismerő technológiát vethetnek be az ukránok, hogy kiszűrjék az oroszokat ]]>
+            </title>
+            <description>
+                <![CDATA[ A sokat kritizált Clearview AI nemrég felajánlotta szolgálatait Ukrajnának, amit az ország állítólag el is fogadott. ]]>
+            </description>
+            <link>http://hvg.hu/tudomany/20220318_ukrajna_clearview_ai_mesterseges_intelligencia_arcfelismeres_arcfelismero_szoftver#rss</link>
+            <author>hvg@hvg.hu</author>
+            <pubDate>Fri, 18 Mar 2022 19:03:00 GMT</pubDate>
+            <source url="http://hvg.hu/rss">hvg.hu</source>
+            <enclosure url="https://images.hvg.hu/image.aspx?id=fb005362-4ebf-4ce6-b058-99506506ca6d" type="image/jpeg" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Nézz körül, Lewis! Itt vannak a fiatalok, és mind ugyanazt akarják ]]>
+            </title>
+            <description>
+                <![CDATA[ Egyre hangosabb és egyre éhesebb a Forma–1 legújabb generációja. A sportág új korszakát nemcsak a szabályváltoztatások hozzák el, hanem ők is. Most még mindenesetre az a helyzet áll elő, hogy még egyszerre láthatjuk a korszak nagyjait és a korszak feltörekvőit. ]]>
+            </description>
+            <link>http://hvg.hu/elet/20220318_Forma_1_2022_szezon_George_Russell_Lando_Norris_Charles_Leclerc_Pierre_Gasly_Esteban_Ocon#rss</link>
+            <author>hvg@hvg.hu</author>
+            <pubDate>Fri, 18 Mar 2022 19:00:00 GMT</pubDate>
+            <source url="http://hvg.hu/rss">hvg.hu</source>
+            <enclosure url="https://images.hvg.hu/image.aspx?id=1385365b-c5bd-4dcf-af47-5770fce132a5" type="image/jpeg" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Németh Szilárd villanyoszlopra mászott, hogy közös képen szerepeljen egy fideszes jelölt plakátjával ]]>
+            </title>
+            <description>
+                <![CDATA[ Szászfalvi Zoltánnal akart egy közös fotót. ]]>
+            </description>
+            <link>http://hvg.hu/itthon/20220318_nemeth_szilard_villanyoszlop#rss</link>
+            <author>hvg@hvg.hu</author>
+            <pubDate>Fri, 18 Mar 2022 18:45:00 GMT</pubDate>
+            <source url="http://hvg.hu/rss">hvg.hu</source>
+            <enclosure url="https://images.hvg.hu/image.aspx?id=857eb0e8-4467-4170-b7ab-cac1210bf3c8" type="image/jpeg" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Orbán azt írja, eltávot kapott, és elindul Belgrádba ]]>
+            </title>
+            <description>
+                <![CDATA[ A debreceni laktanya bejáratából posztolt. ]]>
+            </description>
+            <link>http://hvg.hu/itthon/20220318_orban_belgrad#rss</link>
+            <author>hvg@hvg.hu</author>
+            <pubDate>Fri, 18 Mar 2022 18:30:00 GMT</pubDate>
+            <source url="http://hvg.hu/rss">hvg.hu</source>
+            <enclosure url="https://images.hvg.hu/image.aspx?id=02e970e4-7944-4586-bb59-9dd71bb7f8bb" type="image/jpeg" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Új rekord született a Nemzetközi Űrállomás fedélzetén ]]>
+            </title>
+            <description>
+                <![CDATA[ A NASA űrhajósa, Mark Vande Hei a körülmények furcsa alakulása miatt megdöntötte az amerikai Scott Kelly rekordját, és ezzel ő lett a NASA asztronautája, aki a legtöbb időt töltötte el egyhuzamban a világűrben. ]]>
+            </description>
+            <link>http://hvg.hu/tudomany/20220318_nasa_urhajos_mark_vande_hei_nemzetkozi_urallomas#rss</link>
+            <author>hvg@hvg.hu</author>
+            <pubDate>Fri, 18 Mar 2022 18:03:00 GMT</pubDate>
+            <source url="http://hvg.hu/rss">hvg.hu</source>
+            <enclosure url="https://images.hvg.hu/image.aspx?id=c3394fba-daca-4fad-8f88-648bae0041dc" type="image/jpeg" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Megmutatta a Guardian, hogyan segít Beregsurány a menekülteknek ]]>
+            </title>
+            <description>
+                <![CDATA[ Riportjában párhuzamba állította a 2015-ös és a mostani menekültkrízist a brit napilap. ]]>
+            </description>
+            <link>http://hvg.hu/itthon/20220318_orosz_ukran_haboru_menekultek_beregsurany_riport#rss</link>
+            <author>hvg@hvg.hu</author>
+            <pubDate>Fri, 18 Mar 2022 17:43:00 GMT</pubDate>
+            <source url="http://hvg.hu/rss">hvg.hu</source>
+            <enclosure url="https://images.hvg.hu/image.aspx?id=befd1eb0-4f1d-46a6-aa21-0c6f487306a0" type="image/jpeg" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Beszorult a Sberbankba az állami utalása? Most végre megkaphatja ]]>
+            </title>
+            <description>
+                <![CDATA[ Alaposan pórul jártak azok, akiknek a sberbankos számlájára utalta az államkincstár a havi ellátmányukat közvetlenül a bank bezárásának bejelentése előtt. A járandóságukhoz csak most juthatnak hozzá, és a további folytatáshoz megadhatnak új bankszámlámot. ]]>
+            </description>
+            <link>http://hvg.hu/gazdasag/20220318_Beszorult_a_Sberbankba_az_allami_utalasa_Most_vegre_megkaphatja#rss</link>
+            <author>hvg@hvg.hu</author>
+            <pubDate>Fri, 18 Mar 2022 17:30:00 GMT</pubDate>
+            <source url="http://hvg.hu/rss">hvg.hu</source>
+            <enclosure url="https://images.hvg.hu/image.aspx?id=5ffccec4-acfa-44c6-b051-0cab843e7867" type="image/jpeg" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 1,2 millió forint ütheti a markát, ha van egy ilyen videójátéka elfekvőben ]]>
+            </title>
+            <description>
+                <![CDATA[ Az elmúlt időszakban több retro videójáték ára is emelkedett, de van olyan is, ami bő egy hónap alatt több mint háromszorosára drágult. ]]>
+            </description>
+            <link>http://hvg.hu/tudomany/20220318_playstation_nintendo_sega_gameboy_retro_videojatek#rss</link>
+            <author>hvg@hvg.hu</author>
+            <pubDate>Fri, 18 Mar 2022 17:03:00 GMT</pubDate>
+            <source url="http://hvg.hu/rss">hvg.hu</source>
+            <enclosure url="https://images.hvg.hu/image.aspx?id=150069a4-0cb4-4e08-82ca-9f172b5537d3" type="image/jpeg" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Idézetekkel reagált a kormány Márki-Zay Péter feljelentésére ]]>
+            </title>
+            <description>
+                <![CDATA[ A kormány szerint több nyilatkozat is azt bizonyítja, hogy katonákat küldene harcolni Ukrajnába Márki-Zay Péter és a baloldal. Az már kimaradt a közleményből, hogy az Európai Unió – így Magyarország is – 450 millió euró értékben küld fegyvereket Ukrajnának.  ]]>
+            </description>
+            <link>http://hvg.hu/itthon/20220318_idezetek_kormany_marki_zay_feljelentes_ktk#rss</link>
+            <author>hvg@hvg.hu</author>
+            <pubDate>Fri, 18 Mar 2022 16:57:00 GMT</pubDate>
+            <source url="http://hvg.hu/rss">hvg.hu</source>
+            <enclosure url="https://images.hvg.hu/image.aspx?id=d2a7a5ae-9461-4c1f-bb1d-a9107e4383b6" type="image/jpeg" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Hogy juthatott el közel 12 év teljhatalomtól egy rendőrségi celláig a volt bolgár miniszterelnök? ]]>
+            </title>
+            <description>
+                <![CDATA[ Sok országban vádolják a hatalmon lévő politikusokat korrupcióval, de ritkán jutnak el oda, mint most Bulgáriában: őrizetbe vették a volt miniszterelnököt, és az egykori pénzügyminisztert is. Ahhoz, hogy ez megtörténhessen, szükség volt az Európai Ügyészségre is, valamint egy olyan kormányra, amelynek a rendkívül sok más probléma közepette elemi érdeke volt, hogy bizonyítsa: legalább az elődei korrupciós ügyeivel tud mit kezdeni. ]]>
+            </description>
+            <link>http://hvg.hu/gazdasag/20220318_bulgaria_boriszov_korrupcio_rendorseg_letartoztatas#rss</link>
+            <author>hvg@hvg.hu</author>
+            <pubDate>Fri, 18 Mar 2022 16:30:00 GMT</pubDate>
+            <source url="http://hvg.hu/rss">hvg.hu</source>
+            <enclosure url="https://images.hvg.hu/image.aspx?id=7f2a455c-6605-4a53-958e-7f28b667695e" type="image/jpeg" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[ A HVG több millió forintos támogatást nyújt a menekülteket segítő civil szervezeteknek ]]>
+            </title>
+            <description>
+                <![CDATA[ Nyolc civil szervezetet támogat több millió forintos hirdetési felülettel a HVG Kiadó. ]]>
+            </description>
+            <link>http://hvg.hu/itthon/20220318_hvg_menekulteket_segito_civil_szervezetek#rss</link>
+            <author>hvg@hvg.hu</author>
+            <pubDate>Fri, 18 Mar 2022 16:29:00 GMT</pubDate>
+            <source url="http://hvg.hu/rss">hvg.hu</source>
+            <enclosure url="https://images.hvg.hu/image.aspx?id=bd009a98-c116-495c-b30c-2342e5d05fb5" type="image/jpeg" />
+        </item>
+    </channel>
+</rss>

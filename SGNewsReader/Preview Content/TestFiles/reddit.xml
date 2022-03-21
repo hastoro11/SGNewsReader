@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <category term="swift" label="r/swift"/>
+    <updated>2022-03-19T08:24:09+00:00</updated>
+    <icon>https://www.redditstatic.com/icon.png/</icon>
+    <id>/r/swift/.rss</id>
+    <link rel="self" href="https://www.reddit.com/r/swift/.rss" type="application/atom+xml" />
+    <link rel="alternate" href="https://www.reddit.com/r/swift/" type="text/html" />
+    <logo>https://a.thumbs.redditmedia.com/gq9561mrzeY9TrVx.png</logo>
+    <subtitle>Swift is a general-purpose programming language built using a modern approach to safety, performance, and software design patterns.</subtitle>
+    <title>The Swift Programming Language</title>
+    <entry>
+        <author>
+            <name>/u/DuffMaaaann</name>
+            <uri>https://www.reddit.com/user/DuffMaaaann</uri>
+        </author>
+        <category term="swift" label="r/swift"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;h1&gt;This sub is not about the SWIFT payment system.&lt;/h1&gt; &lt;p&gt;Hi there and welcome to &lt;a href=&quot;/r/swift&quot;&gt;r/swift&lt;/a&gt;! If you are a Swift beginner, this post might answer a few of your questions and provide some resources to get started learning Swift.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html&quot;&gt;A Swift Tour&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Please read this before posting!&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;If you have a question, make sure to phrase it as precisely as possible and to include your code if possible.&lt;/li&gt; &lt;li&gt;Please format your code properly. &lt;ul&gt; &lt;li&gt;You can write inline code by clicking the inline code symbol in the fancy pants editor or by surrounding it with single backticks. (`code-goes-here`) in markdown mode.&lt;/li&gt; &lt;li&gt;You can include a larger code block by clicking on the Code Block button (fancy pants) or indenting it with 4 spaces (markdown mode).&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;Where to learn Swift:&lt;/h1&gt; &lt;p&gt;Tutorials:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://www.hackingwithswift.com/100&quot;&gt;100 Days of Swift&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://www.raywenderlich.com/ios/paths/learn&quot;&gt;Swift Course by Ray Wenderlich&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Official Resources from Apple:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html&quot;&gt;Swift Language Guide&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://books.apple.com/us/book/the-swift-programming-language-swift-5-3/id881256329&quot;&gt;The Swift Programming Language - E-Book&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://books.apple.com/us/book/intro-to-app-development-with-swift/id1118575552&quot;&gt;Intro to App Development with Swift - E-Book&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://books.apple.com/us/book/develop-in-swift-data-collections/id1511183970&quot;&gt;Develop in Swift - Data Collections - E-Book&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://books.apple.com/us/book/develop-in-swift-fundamentals/id1511184145&quot;&gt;Develop in Swift - Fundamentals - E-Book&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://books.apple.com/us/book/develop-in-swift-explorations/id1511184149&quot;&gt;Develop in Swift - Explorations - E-Book&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Swift Playgrounds (Interactive tutorials and starting points to play around with Swift):&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://apps.apple.com/app/id1496833156&quot;&gt;Swift Playgrounds for Mac&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://apps.apple.com/app/id908519492&quot;&gt;Swift Playgrounds for iPad&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Resources for SwiftUI:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://developer.apple.com/tutorials/swiftui/&quot;&gt;SwiftUI Tutorials&lt;/a&gt; from Apple&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://www.hackingwithswift.com/quick-start/swiftui&quot;&gt;SwiftUI by example&lt;/a&gt; from Hacking With Swift&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;FAQ:&lt;/h1&gt; &lt;p&gt;&lt;strong&gt;Should I use SwiftUI or UIKit?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The answer to this question depends a lot on personal preference. Generally speaking, both UIKit and SwiftUI are valid choices and will be for the foreseeable future.&lt;/p&gt; &lt;p&gt;SwiftUI is the newer technology and compared to UIKit it is not as mature yet. Some more advanced features are missing and you might experience some hiccups here and there.&lt;/p&gt; &lt;p&gt;You can mix and match UIKit and SwiftUI code. It is possible to integrate SwiftUI code into a UIKit app and vice versa.&lt;/p&gt; &lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Is X the right computer for developing Swift?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Basically any Mac is sufficient for Swift development. Make sure to get enough disk space, as Xcode quickly consumes around 50GB. 256GB and up should be sufficient.&lt;/p&gt; &lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Can I develop apps on Linux/Windows?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;You can compile and run Swift on Linux and Windows. However, developing apps for Apple platforms requires Xcode, which is only available for macOS, or Swift Playgrounds, which can only do app development on iPadOS.&lt;/p&gt; &lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Is Swift only useful for Apple devices?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;No. There are many projects that make Swift useful on other platforms as well.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Swift runs on Linux (&lt;a href=&quot;https://hub.docker.com/_/swift/&quot;&gt;Docker images available&lt;/a&gt;), &lt;a href=&quot;https://swift.org/blog/swift-on-windows/&quot;&gt;Windows&lt;/a&gt; and &lt;a href=&quot;https://github.com/apple/swift/blob/main/docs/Android.md&quot;&gt;Android&lt;/a&gt;&lt;/li&gt; &lt;li&gt;You can use Swift on the Server with frameworks such as &lt;a href=&quot;https://vapor.codes&quot;&gt;Vapor&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://www.tensorflow.org/swift&quot;&gt;TensorFlow supports Swift&lt;/a&gt;, so you can build and train deep learning models with Swift. (Note: Project archived)&lt;/li&gt; &lt;li&gt;You can run Swift in &lt;a href=&quot;https://github.com/google/swift-jupyter&quot;&gt;Jupyter Notebook&lt;/a&gt;&lt;/li&gt; &lt;li&gt;There are efforts to &lt;a href=&quot;https://github.com/swift-embedded/swift-embedded&quot;&gt;make Swift available on embedded systems&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Can I learn Swift without any previous programming knowledge?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Yes.&lt;/p&gt; &lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;h1&gt;Related Subs&lt;/h1&gt; &lt;p&gt;&lt;a href=&quot;/r/iOSProgramming&quot;&gt;r/iOSProgramming&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;/r/SwiftUI&quot;&gt;r/SwiftUI&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;/r/S4TF&quot;&gt;r/S4TF&lt;/a&gt; - Swift for TensorFlow (Note: Swift for TensorFlow project archived)&lt;/p&gt; &lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Happy Coding!&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;sup&gt;If anyone has useful resources or information to add to this post, I&amp;#39;d be happy to include it.&lt;/sup&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/DuffMaaaann&quot;&gt; /u/DuffMaaaann &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/l0u5c3/faq_and_advice_for_beginners_please_read_before/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/l0u5c3/faq_and_advice_for_beginners_please_read_before/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_l0u5c3</id>
+        <link href="https://www.reddit.com/r/swift/comments/l0u5c3/faq_and_advice_for_beginners_please_read_before/" />
+        <updated>2021-01-19T21:48:04+00:00</updated>
+        <published>2021-01-19T21:48:04+00:00</published>
+        <title>FAQ and Advice for Beginners - Please read before posting</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Swiftapple</name>
+            <uri>https://www.reddit.com/user/Swiftapple</uri>
+        </author>
+        <category term="swift" label="r/swift"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;What Swift-related projects are you currently working on?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Swiftapple&quot;&gt; /u/Swiftapple &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/t8dfvl/whats_everyone_working_on_this_month_march_2022/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/t8dfvl/whats_everyone_working_on_this_month_march_2022/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_t8dfvl</id>
+        <link href="https://www.reddit.com/r/swift/comments/t8dfvl/whats_everyone_working_on_this_month_march_2022/" />
+        <updated>2022-03-07T01:11:15+00:00</updated>
+        <published>2022-03-07T01:11:15+00:00</published>
+        <title>What’s everyone working on this month? (March 2022)</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/pitt500</name>
+            <uri>https://www.reddit.com/user/pitt500</uri>
+        </author>
+        <category term="swift" label="r/swift"/>
+        <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/swift/comments/th3k2s/any_keyword_and_existential_types_in_swift/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/fY6NIpwv3uR8_AgZJLOfv3rAvt0USC9J2JoxKIN8aYQ.jpg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=fe8ff8c7c81167a929822547177f6812e83a731c&quot; alt=&quot;&amp;quot;any&amp;quot; Keyword and Existential types in Swift&quot; title=&quot;&amp;quot;any&amp;quot; Keyword and Existential types in Swift&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/pitt500&quot;&gt; /u/pitt500 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://youtu.be/Wa8xTSHX_PM&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/th3k2s/any_keyword_and_existential_types_in_swift/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+        <id>t3_th3k2s</id>
+        <media:thumbnail url="https://external-preview.redd.it/fY6NIpwv3uR8_AgZJLOfv3rAvt0USC9J2JoxKIN8aYQ.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=fe8ff8c7c81167a929822547177f6812e83a731c" />
+        <link href="https://www.reddit.com/r/swift/comments/th3k2s/any_keyword_and_existential_types_in_swift/" />
+        <updated>2022-03-18T15:10:36+00:00</updated>
+        <published>2022-03-18T15:10:36+00:00</published>
+        <title>&quot;any&quot; Keyword and Existential types in Swift</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/sd3gn</name>
+            <uri>https://www.reddit.com/user/sd3gn</uri>
+        </author>
+        <category term="swift" label="r/swift"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi,&lt;/p&gt; &lt;p&gt;I&amp;#39;m building this developer tool for mac with Swift. Originally I considered just using Apple&amp;#39;s own in-app subscription service for the billing but there has now been some interest about the project for team usage. Do you guys have any suggestions for a service with an API where it&amp;#39;s possible to do some simple user management and per-seat-billing? The application is still working as an individual tool with no data that needs to be accessible among the &amp;quot;seats&amp;quot;, but I am just curious to find a very simple solution for in-app team billing.&lt;/p&gt; &lt;p&gt;All the best&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/sd3gn&quot;&gt; /u/sd3gn &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/thfa9t/best_userteam_management_subscription_service_for/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/thfa9t/best_userteam_management_subscription_service_for/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_thfa9t</id>
+        <link href="https://www.reddit.com/r/swift/comments/thfa9t/best_userteam_management_subscription_service_for/" />
+        <updated>2022-03-18T21:11:26+00:00</updated>
+        <published>2022-03-18T21:11:26+00:00</published>
+        <title>Best user/team management subscription service for Mac application</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/shizzyy67</name>
+            <uri>https://www.reddit.com/user/shizzyy67</uri>
+        </author>
+        <category term="swift" label="r/swift"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I have a lot of free time on my hand and I would like to learn some basic math courses in geometry to help improve my interface design skills. What other topics in geometry did you learn?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/shizzyy67&quot;&gt; /u/shizzyy67 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/thevkv/what_topics_in_geometry_ddid_you_learn_that_helps/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/thevkv/what_topics_in_geometry_ddid_you_learn_that_helps/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_thevkv</id>
+        <link href="https://www.reddit.com/r/swift/comments/thevkv/what_topics_in_geometry_ddid_you_learn_that_helps/" />
+        <updated>2022-03-18T20:52:59+00:00</updated>
+        <published>2022-03-18T20:52:59+00:00</published>
+        <title>What topics in Geometry Ddid you learn that helps you design amazing interfaces?</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/deafangel1080</name>
+            <uri>https://www.reddit.com/user/deafangel1080</uri>
+        </author>
+        <category term="swift" label="r/swift"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Know any good learning code game in swift online? Please let me know. Thank you :)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/deafangel1080&quot;&gt; /u/deafangel1080 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/thmm5z/swift_code_game/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/thmm5z/swift_code_game/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_thmm5z</id>
+        <link href="https://www.reddit.com/r/swift/comments/thmm5z/swift_code_game/" />
+        <updated>2022-03-19T03:31:51+00:00</updated>
+        <published>2022-03-19T03:31:51+00:00</published>
+        <title>swift code game?</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/ThisComb</name>
+            <uri>https://www.reddit.com/user/ThisComb</uri>
+        </author>
+        <category term="swift" label="r/swift"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;ve been working with Multipeer Connectivity and was occasionally getting an odd CoreFoundation crash with EXC_BREAKPOINT that I couldn&amp;#39;t pinpoint the origin of. I&amp;#39;ve come to find out today that I one of many experiencing the same problem. In fact, someone was able to reproduce the crash using the Apple&amp;#39;s &lt;a href=&quot;https://developer.apple.com/forums/thread/663772?answerId=645429022#645429022&quot;&gt;own code&lt;/a&gt; from WWDC.&lt;/p&gt; &lt;p&gt;Apple confirmed that it&amp;#39;s indeed a Core Foundation level problem that started in iOS14 and their work around is to use other Bonjour API like the Network framework instead. This was 6 months ago and, to this day, the issue remains unresolved. Anybody experiencing the same issue?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ThisComb&quot;&gt; /u/ThisComb &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/thkw3e/multipeer_connectivity_is_inherently_a_flawed/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/thkw3e/multipeer_connectivity_is_inherently_a_flawed/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_thkw3e</id>
+        <link href="https://www.reddit.com/r/swift/comments/thkw3e/multipeer_connectivity_is_inherently_a_flawed/" />
+        <updated>2022-03-19T01:53:59+00:00</updated>
+        <published>2022-03-19T01:53:59+00:00</published>
+        <title>Multipeer Connectivity is inherently a flawed Apple framework</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Water-Cookies</name>
+            <uri>https://www.reddit.com/user/Water-Cookies</uri>
+        </author>
+        <category term="swift" label="r/swift"/>
+        <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/swift/comments/th22hg/apple_photogrammetry_of_a_book_oc/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/NR9RKRO7YufyKods8mcqVaYCd-02ZVNVKftLOznuCM0.jpg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0e64a00cbc3860768b3844af01f3b06e08c99cd5&quot; alt=&quot;Apple Photogrammetry of a Book [OC]&quot; title=&quot;Apple Photogrammetry of a Book [OC]&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Water-Cookies&quot;&gt; /u/Water-Cookies &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://youtu.be/Glt7LaJo9Ho&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/th22hg/apple_photogrammetry_of_a_book_oc/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+        <id>t3_th22hg</id>
+        <media:thumbnail url="https://external-preview.redd.it/NR9RKRO7YufyKods8mcqVaYCd-02ZVNVKftLOznuCM0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0e64a00cbc3860768b3844af01f3b06e08c99cd5" />
+        <link href="https://www.reddit.com/r/swift/comments/th22hg/apple_photogrammetry_of_a_book_oc/" />
+        <updated>2022-03-18T14:03:20+00:00</updated>
+        <published>2022-03-18T14:03:20+00:00</published>
+        <title>Apple Photogrammetry of a Book [OC]</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/oscbyspro</name>
+            <uri>https://www.reddit.com/user/oscbyspro</uri>
+        </author>
+        <category term="swift" label="r/swift"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I never posted it here, because I didn’t think you would be interested (as opposed to iOS programming). That said, I saw the post below and the positive attention it received. So, for all who are interested, this has been my passion project over the past 6 months, with over 2000 commits on Github: &lt;a href=&quot;https://github.com/oscbyspro/DiffableTextViews&quot;&gt;https://github.com/oscbyspro/DiffableTextViews&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;It formats and binds values as you type&lt;/li&gt; &lt;li&gt;It supports multiple formats (number, currency, percent, pattern)&lt;/li&gt; &lt;li&gt;It supports input validation and autocorrection&lt;/li&gt; &lt;li&gt;It supports all locales and locale-currency pairs&lt;/li&gt; &lt;li&gt;It contains documentation, gifs, and an example project&lt;/li&gt; &lt;li&gt;It is super, super, super easy to use (try it out)&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;p&gt;There’s a lot more to it, and I have put a lot of attention to detail. It&amp;#39;s free and open source.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/oscbyspro&quot;&gt; /u/oscbyspro &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/tgwz6l/diffabletextviews_open_source_package/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/tgwz6l/diffabletextviews_open_source_package/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_tgwz6l</id>
+        <link href="https://www.reddit.com/r/swift/comments/tgwz6l/diffabletextviews_open_source_package/" />
+        <updated>2022-03-18T08:55:53+00:00</updated>
+        <published>2022-03-18T08:55:53+00:00</published>
+        <title>DiffableTextViews — Open Source Package</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/AbominableShellfish</name>
+            <uri>https://www.reddit.com/user/AbominableShellfish</uri>
+        </author>
+        <category term="swift" label="r/swift"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;m working on a project where I need to send some messages between an installer app and the installed &amp;quot;sub-app&amp;quot;. I&amp;#39;m using a privileged helper to install the secondary app.&lt;/p&gt; &lt;p&gt;What I&amp;#39;m trying to do is open up a socket to localhost which allows for the two apps to just send a single string back and forth. From there, I can get the rest of my logic.&lt;/p&gt; &lt;p&gt;Using Starscream or SocketIO have been the suggestions I&amp;#39;ve seen so far, but I&amp;#39;m feeling unsure about how to do this with them.&lt;/p&gt; &lt;p&gt;If anyone has any suggestions of experience with this kind of stuff, I&amp;#39;m taking all advice. &lt;/p&gt; &lt;p&gt;Thanks a ton!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AbominableShellfish&quot;&gt; /u/AbominableShellfish &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/th0su4/communicating_with_sockets_between_two_macos_apps/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/th0su4/communicating_with_sockets_between_two_macos_apps/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_th0su4</id>
+        <link href="https://www.reddit.com/r/swift/comments/th0su4/communicating_with_sockets_between_two_macos_apps/" />
+        <updated>2022-03-18T13:01:36+00:00</updated>
+        <published>2022-03-18T13:01:36+00:00</published>
+        <title>Communicating with sockets between two macOS apps on localhost</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/HeavyGuidance</name>
+            <uri>https://www.reddit.com/user/HeavyGuidance</uri>
+        </author>
+        <category term="swift" label="r/swift"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello beautiful folks out there. I am hitting a wall with my project when it comes to deciding the right backend. I am planning to build a services app which will have few hundred users with some messaging features etc. There are plenty of options out there based on different features and cost such as Firebase, backendless, xano, back4app.&lt;/p&gt; &lt;p&gt;More the options, harder it is to choose and adapt their API guides. Since it will be a time consuming act to learn about all APIs, I wonder if somehow things can be short listed. I heard that Firebase becomes really expenses when application scales.&lt;/p&gt; &lt;p&gt;So how are you folks doing it, when it comes to choosing a backend?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/HeavyGuidance&quot;&gt; /u/HeavyGuidance &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/tgsujz/choosing_a_backend_for_a_services_app/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/tgsujz/choosing_a_backend_for_a_services_app/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_tgsujz</id>
+        <link href="https://www.reddit.com/r/swift/comments/tgsujz/choosing_a_backend_for_a_services_app/" />
+        <updated>2022-03-18T04:08:23+00:00</updated>
+        <published>2022-03-18T04:08:23+00:00</published>
+        <title>Choosing a backend for a Services App</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/leoxen47</name>
+            <uri>https://www.reddit.com/user/leoxen47</uri>
+        </author>
+        <category term="swift" label="r/swift"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello guys, I am currently working as an iOS developer but I am thinking of getting admission to USA universities (masters in computer science). After the course will I get a job on basis of my experience in iOS development or any competitive coding round will be taken. &lt;/p&gt; &lt;p&gt;Is there any chance I will get a job only on my experience and interview without a competitive coding round? (coz I s**k at competitive coding)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/leoxen47&quot;&gt; /u/leoxen47 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/tgykxq/are_algorithmsdsa_and_logic_necessary_for_getting/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/tgykxq/are_algorithmsdsa_and_logic_necessary_for_getting/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_tgykxq</id>
+        <link href="https://www.reddit.com/r/swift/comments/tgykxq/are_algorithmsdsa_and_logic_necessary_for_getting/" />
+        <updated>2022-03-18T10:50:06+00:00</updated>
+        <published>2022-03-18T10:50:06+00:00</published>
+        <title>Are algorithms(DSA) and logic necessary for getting a job in the USA as an iOS Developer?</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/jg_rimes</name>
+            <uri>https://www.reddit.com/user/jg_rimes</uri>
+        </author>
+        <category term="swift" label="r/swift"/>
+        <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/swift/comments/th4j7r/need_help_understanding_how_to_use/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/QgPvRTknlY3rMNDqH1k4I37XGiq9tZF_FsygC_Xht4o.jpg?width=216&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=533bd055cdae7998d1b8f9cd9d7dedabc1715bda&quot; alt=&quot;Need Help understanding how to use CKQueryOperation to query all records of a type please help&quot; title=&quot;Need Help understanding how to use CKQueryOperation to query all records of a type please help&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/jg_rimes&quot;&gt; /u/jg_rimes &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://stackoverflow.com/questions/71529092/needing-help-understanding-how-to-correctly-execute-ckqueryoperation&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/th4j7r/need_help_understanding_how_to_use/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+        <id>t3_th4j7r</id>
+        <media:thumbnail url="https://external-preview.redd.it/QgPvRTknlY3rMNDqH1k4I37XGiq9tZF_FsygC_Xht4o.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=533bd055cdae7998d1b8f9cd9d7dedabc1715bda" />
+        <link href="https://www.reddit.com/r/swift/comments/th4j7r/need_help_understanding_how_to_use/" />
+        <updated>2022-03-18T15:55:17+00:00</updated>
+        <published>2022-03-18T15:55:17+00:00</published>
+        <title>Need Help understanding how to use CKQueryOperation to query all records of a type please help</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Firm_Salamander</name>
+            <uri>https://www.reddit.com/user/Firm_Salamander</uri>
+        </author>
+        <category term="swift" label="r/swift"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Like if you enter text in storyboard or programmatically.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Firm_Salamander&quot;&gt; /u/Firm_Salamander &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/th3sg8/what_is_the_standard_y_vertical_space_for_2_lines/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/th3sg8/what_is_the_standard_y_vertical_space_for_2_lines/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_th3sg8</id>
+        <link href="https://www.reddit.com/r/swift/comments/th3sg8/what_is_the_standard_y_vertical_space_for_2_lines/" />
+        <updated>2022-03-18T15:21:09+00:00</updated>
+        <published>2022-03-18T15:21:09+00:00</published>
+        <title>What is the standard y vertical space for 2 lines in a text field- DIN Alternate font 19?</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/iamMikeCenters</name>
+            <uri>https://www.reddit.com/user/iamMikeCenters</uri>
+        </author>
+        <category term="swift" label="r/swift"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mikeCenters/NumberTextField&quot;&gt;NumberTextField — GitHub&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Hello Reddit!&lt;/p&gt; &lt;p&gt;I present my first open source release for a SwiftUI project I’ve created. In SwiftUI, it seems that working with a text field and numbered input is becoming cumbersome. Furthermore, live formatting during user input is an absolute must! I had originally intended to use the Combine framework in one of my apps to handle the input and correctly format the text; however, I ran into an issue that bothered me, and that is cursor placement (specifically when using symbols within the number). While a user would have to go out of their way to mess the placement up, I felt it was my obligation to prevent that from ever happening.&lt;/p&gt; &lt;p&gt;This project allows you to use TextField view as you currently would in SwiftUI, through the NumberTextField view. Also, this TextField replacement accepts an optional Decimal binding, instead of a String binding. This means you will not have to worry about transposing the different types when wanting to do things with numbers.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Live Formatting!&lt;/li&gt; &lt;li&gt;The binding is always the current input.&lt;/li&gt; &lt;li&gt;The view requires a number formatter to provide number parameters to maintain.&lt;/li&gt; &lt;li&gt;The view accepts a closure for various events. &lt;ul&gt; &lt;li&gt;On Change&lt;/li&gt; &lt;li&gt;On Commit&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;I hope you enjoy. The project is not “complete,” for nothing ever is.&lt;/p&gt; &lt;p&gt;Small edit: I just realized that I did not annotate this in the readme. The text field supports localization and all currencies.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/iamMikeCenters&quot;&gt; /u/iamMikeCenters &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/tgkwyj/numbertextfield_open_source_project/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/tgkwyj/numbertextfield_open_source_project/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_tgkwyj</id>
+        <link href="https://www.reddit.com/r/swift/comments/tgkwyj/numbertextfield_open_source_project/" />
+        <updated>2022-03-17T21:32:56+00:00</updated>
+        <published>2022-03-17T21:32:56+00:00</published>
+        <title>NumberTextField — Open Source Project</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Spimbi</name>
+            <uri>https://www.reddit.com/user/Spimbi</uri>
+        </author>
+        <category term="swift" label="r/swift"/>
+        <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/swift/comments/tgku59/is_it_possible_to_incorporate_this_photo_editing/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/8jpnz0u2i0o81.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=3b121a9db23a7634a337bb11484354e48d69acec&quot; alt=&quot;Is it possible to incorporate this photo editing preview into my app? More info in comments.&quot; title=&quot;Is it possible to incorporate this photo editing preview into my app? More info in comments.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Spimbi&quot;&gt; /u/Spimbi &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/8jpnz0u2i0o81.jpg&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/tgku59/is_it_possible_to_incorporate_this_photo_editing/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+        <id>t3_tgku59</id>
+        <media:thumbnail url="https://preview.redd.it/8jpnz0u2i0o81.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3b121a9db23a7634a337bb11484354e48d69acec" />
+        <link href="https://www.reddit.com/r/swift/comments/tgku59/is_it_possible_to_incorporate_this_photo_editing/" />
+        <updated>2022-03-17T21:29:30+00:00</updated>
+        <published>2022-03-17T21:29:30+00:00</published>
+        <title>Is it possible to incorporate this photo editing preview into my app? More info in comments.</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Leopug</name>
+            <uri>https://www.reddit.com/user/Leopug</uri>
+        </author>
+        <category term="swift" label="r/swift"/>
+        <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/swift/comments/tg92kb/how_to_write_unit_tests_for_uibutton_with_xctest/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/KFEINueK5nY8qWn-KE7COoHjFt4YzpUrz_m3tqO4g6E.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ed04df70db2e460f22c517f5b7de81e1390e6e8e&quot; alt=&quot;How to Write Unit Tests for UIButton with XCTest in Swift&quot; title=&quot;How to Write Unit Tests for UIButton with XCTest in Swift&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Leopug&quot;&gt; /u/Leopug &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://holyswift.app/how-to-write-unit-tests-for-uibutton-with-xctest-in-swift&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/tg92kb/how_to_write_unit_tests_for_uibutton_with_xctest/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+        <id>t3_tg92kb</id>
+        <media:thumbnail url="https://external-preview.redd.it/KFEINueK5nY8qWn-KE7COoHjFt4YzpUrz_m3tqO4g6E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ed04df70db2e460f22c517f5b7de81e1390e6e8e" />
+        <link href="https://www.reddit.com/r/swift/comments/tg92kb/how_to_write_unit_tests_for_uibutton_with_xctest/" />
+        <updated>2022-03-17T12:28:10+00:00</updated>
+        <published>2022-03-17T12:28:10+00:00</published>
+        <title>How to Write Unit Tests for UIButton with XCTest in Swift</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Top_Night4697</name>
+            <uri>https://www.reddit.com/user/Top_Night4697</uri>
+        </author>
+        <category term="swift" label="r/swift"/>
+        <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/swift/comments/tgiivn/obtaining_values_of_property_types_from_a_struct/&quot;&gt; &lt;img src=&quot;https://b.thumbs.redditmedia.com/MrspoK7Wvc0JNPjQfLvXnPaIRikmpgDZpLl5xFu92Bs.jpg&quot; alt=&quot;Obtaining values of property types from a struct of structs.&quot; title=&quot;Obtaining values of property types from a struct of structs.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone,&lt;/p&gt; &lt;p&gt;not sure I got the phrasing in the title of this post 100% accurate but basically I want to create a function which adds the correct answers from all of my questions within the quiz struct into one single array. I&amp;#39;ve attempted to do so below in the get answers list function but I don&amp;#39;t see this way working. I was thinking of using a for loop instead. If anyone has any simple ways I can do this I would be very grateful if you let me know. In the code the &amp;#39;.rightAnswer&amp;#39; part is what I&amp;#39;ve referred the name of the correct answer element of the &amp;#39;Question&amp;#39; struct to.&lt;/p&gt; &lt;p&gt;Many thanks.&lt;/p&gt; &lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://preview.redd.it/d1it6hfof0o81.png?width=701&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=13a22ee7cc18be42e206aae79f568cb4c5f71baa&quot;&gt;https://preview.redd.it/d1it6hfof0o81.png?width=701&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=13a22ee7cc18be42e206aae79f568cb4c5f71baa&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://preview.redd.it/0qpic4vn60o81.png?width=706&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=de6fa6a20f0abd3757fbd3ec4632c5a57c730dc3&quot;&gt;https://preview.redd.it/0qpic4vn60o81.png?width=706&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=de6fa6a20f0abd3757fbd3ec4632c5a57c730dc3&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://preview.redd.it/x5uvhw11zzn81.png?width=706&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=bcd403c8389ac7b1834d8ed6e1e443a1a54b4ff9&quot;&gt;https://preview.redd.it/x5uvhw11zzn81.png?width=706&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=bcd403c8389ac7b1834d8ed6e1e443a1a54b4ff9&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Top_Night4697&quot;&gt; /u/Top_Night4697 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/tgiivn/obtaining_values_of_property_types_from_a_struct/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/tgiivn/obtaining_values_of_property_types_from_a_struct/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+        <id>t3_tgiivn</id>
+        <media:thumbnail url="https://b.thumbs.redditmedia.com/MrspoK7Wvc0JNPjQfLvXnPaIRikmpgDZpLl5xFu92Bs.jpg" />
+        <link href="https://www.reddit.com/r/swift/comments/tgiivn/obtaining_values_of_property_types_from_a_struct/" />
+        <updated>2022-03-17T19:46:13+00:00</updated>
+        <published>2022-03-17T19:46:13+00:00</published>
+        <title>Obtaining values of property types from a struct of structs.</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/ElectricalControl376</name>
+            <uri>https://www.reddit.com/user/ElectricalControl376</uri>
+        </author>
+        <category term="swift" label="r/swift"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;So I started learning swift this year and it was very nice, one the things that I needed is local background removal. &lt;/p&gt; &lt;p&gt;I made a library for this purpose, I am not very experienced and I would love to hear some feedback. But I think it is easy to use.&lt;/p&gt; &lt;p&gt;You can find the library here : &lt;a href=&quot;https://github.com/Ezaldeen99/BackgroundRemoval&quot;&gt;background removal &lt;/a&gt;&lt;/p&gt; &lt;p&gt;The model used in this library is U2net which is the best one source model I have found yet. In case any better models please let me know😆. &lt;/p&gt; &lt;p&gt;Thanks in advance&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ElectricalControl376&quot;&gt; /u/ElectricalControl376 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/tga5r5/background_removal_swift_lib/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/tga5r5/background_removal_swift_lib/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_tga5r5</id>
+        <link href="https://www.reddit.com/r/swift/comments/tga5r5/background_removal_swift_lib/" />
+        <updated>2022-03-17T13:24:03+00:00</updated>
+        <published>2022-03-17T13:24:03+00:00</published>
+        <title>Background removal swift lib</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/UnderscoreLumination</name>
+            <uri>https://www.reddit.com/user/UnderscoreLumination</uri>
+        </author>
+        <category term="swift" label="r/swift"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I had the bestest idea for an app I want to do, but I don&amp;#39;t know anything about Swift, so I would want you guys to give me documentation about EVERYTHING in Swift, even the lamest and easiest things.&lt;/p&gt; &lt;p&gt;If you wanna know kind of my ambition project then I will give you a bit more details but not too much as well&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/UnderscoreLumination&quot;&gt; /u/UnderscoreLumination &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/th1ao4/i_have_a_big_ambition_but_i_dont_know_anything/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/th1ao4/i_have_a_big_ambition_but_i_dont_know_anything/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_th1ao4</id>
+        <link href="https://www.reddit.com/r/swift/comments/th1ao4/i_have_a_big_ambition_but_i_dont_know_anything/" />
+        <updated>2022-03-18T13:26:44+00:00</updated>
+        <published>2022-03-18T13:26:44+00:00</published>
+        <title>I have a big ambition, but I don't know anything about Swift.</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Llamalover1234567</name>
+            <uri>https://www.reddit.com/user/Llamalover1234567</uri>
+        </author>
+        <category term="swift" label="r/swift"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi there, &lt;/p&gt; &lt;p&gt;I&amp;#39;m looking at this example from &lt;a href=&quot;https://developer.apple.com/tutorials/swiftui/handling-user-input&quot;&gt;https://developer.apple.com/tutorials/swiftui/handling-user-input&lt;/a&gt;&lt;/p&gt; &lt;p&gt;In there is a struct that declares a landmark object and it has the property isFavorite&lt;/p&gt; &lt;pre&gt;&lt;code&gt;struct landmark: Hashable, Codable, Identifiable { var id: Int var name: String var park: String var city: String var state: String var isFavorite: Bool var imageName: String init(id: Int, name: String, park: String, city: String, state: String, isFavorite: Bool, imageName: String) { self.id = id self.name = name self.park = park self.city = city self.state = state self.isFavorite = isFavorite self.imageName = imageName } } &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;I need to change the isFavorite bool (which is initialized as false), however when I say something like &lt;/p&gt; &lt;p&gt;landmark.isFavorite = true &lt;/p&gt; &lt;p&gt;I get the &amp;quot;cannot mutate self&amp;quot; &lt;/p&gt; &lt;p&gt;so I added the func &lt;/p&gt; &lt;pre&gt;&lt;code&gt;mutating func makeFavorite(isFav : Bool) { self.isFavorite = isFav } &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;to the struct and it still won&amp;#39;t work. What am I doing wrong here? &lt;/p&gt; &lt;p&gt;Thanks!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Llamalover1234567&quot;&gt; /u/Llamalover1234567 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/tgf0m3/mutating_func_not_working/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/tgf0m3/mutating_func_not_working/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_tgf0m3</id>
+        <link href="https://www.reddit.com/r/swift/comments/tgf0m3/mutating_func_not_working/" />
+        <updated>2022-03-17T17:07:56+00:00</updated>
+        <published>2022-03-17T17:07:56+00:00</published>
+        <title>Mutating Func Not Working</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/CsInquirer</name>
+            <uri>https://www.reddit.com/user/CsInquirer</uri>
+        </author>
+        <category term="swift" label="r/swift"/>
+        <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/CsInquirer&quot;&gt; /u/CsInquirer &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/tghi7r/why_cant_xcode_1321_run_ios_154/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/tghi7r/why_cant_xcode_1321_run_ios_154/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_tghi7r</id>
+        <link href="https://www.reddit.com/r/swift/comments/tghi7r/why_cant_xcode_1321_run_ios_154/" />
+        <updated>2022-03-17T18:59:18+00:00</updated>
+        <published>2022-03-17T18:59:18+00:00</published>
+        <title>Why can’t Xcode 13.2.1 run iOS 15.4?</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/espiant0</name>
+            <uri>https://www.reddit.com/user/espiant0</uri>
+        </author>
+        <category term="swift" label="r/swift"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone! I’m currently working on a fintech startup with a team of ~10 engineers &amp;amp; designers, with our tech lead being a senior iOS engineer and lead designer being a senior designer @ Goldman Sachs. We’re looking for people to help us iterate on our MVP! We got ~6k downloads on the MVP with 0 advertising even though our app doesn’t totally work yet, so we know there’s potential. DM me if you have some experience in iOS (even if it’s not a lot — you can use this as a learning experience) and are interested in getting more details/helping out!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/espiant0&quot;&gt; /u/espiant0 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/tghafy/fintech_startup_looking_for_ios_programmers_to/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/tghafy/fintech_startup_looking_for_ios_programmers_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_tghafy</id>
+        <link href="https://www.reddit.com/r/swift/comments/tghafy/fintech_startup_looking_for_ios_programmers_to/" />
+        <updated>2022-03-17T18:49:11+00:00</updated>
+        <published>2022-03-17T18:49:11+00:00</published>
+        <title>Fintech startup looking for iOS programmers to help (as a side gig) on team of ~10 w/ 6k users</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Top_Night4697</name>
+            <uri>https://www.reddit.com/user/Top_Night4697</uri>
+        </author>
+        <category term="swift" label="r/swift"/>
+        <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/swift/comments/tgjrcf/cannot_use_instance_member_quiz_within_property/&quot;&gt; &lt;img src=&quot;https://b.thumbs.redditmedia.com/LcdKDaKbfSLCuT5SI-5D0_7ezefU4KNCWf-2CcuX9GQ.jpg&quot; alt=&quot;Cannot use instance member 'quiz' within property initializer; property initializers run before 'self' is available&quot; title=&quot;Cannot use instance member 'quiz' within property initializer; property initializers run before 'self' is available&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone, &lt;/p&gt; &lt;p&gt;I&amp;#39;m trying to map all the correct answer properties from an array of questions into it&amp;#39;s own array. I&amp;#39;m getting the error stated in the title. Can anyone help me out. I&amp;#39;d be very grateful. &lt;/p&gt; &lt;p&gt;Many thanks. &lt;/p&gt; &lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://preview.redd.it/9z3v6m6l90o81.png?width=701&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=f254ce4fccc349428b4e30ccbe4d353c5295c0a7&quot;&gt;https://preview.redd.it/9z3v6m6l90o81.png?width=701&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=f254ce4fccc349428b4e30ccbe4d353c5295c0a7&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Top_Night4697&quot;&gt; /u/Top_Night4697 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/tgjrcf/cannot_use_instance_member_quiz_within_property/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/tgjrcf/cannot_use_instance_member_quiz_within_property/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+        <id>t3_tgjrcf</id>
+        <media:thumbnail url="https://b.thumbs.redditmedia.com/LcdKDaKbfSLCuT5SI-5D0_7ezefU4KNCWf-2CcuX9GQ.jpg" />
+        <link href="https://www.reddit.com/r/swift/comments/tgjrcf/cannot_use_instance_member_quiz_within_property/" />
+        <updated>2022-03-17T20:41:33+00:00</updated>
+        <published>2022-03-17T20:41:33+00:00</published>
+        <title>Cannot use instance member 'quiz' within property initializer; property initializers run before 'self' is available</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/MohammadBashirSidani</name>
+            <uri>https://www.reddit.com/user/MohammadBashirSidani</uri>
+        </author>
+        <category term="swift" label="r/swift"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;My app is doing well and I get daily 1 to 3 ratings mostly 5 stars which is great!&lt;/p&gt; &lt;p&gt;However reviews are tough to come by. In US store I have +50 ratings ratings but 3 reviews. How can I increase the reviews?&lt;/p&gt; &lt;p&gt;The problem is that even though my app is marked as 4.7 out of 5, The latest comment is somehow negative and with 3 stars. Since it&amp;#39;s one of only 3 reviews people see it and it might impact the download rate.&lt;/p&gt; &lt;p&gt;Any idea how to increase the reviews organically?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MohammadBashirSidani&quot;&gt; /u/MohammadBashirSidani &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/tgbmo9/ratings_are_easy_to_come_by_but_reviews_are_much/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/tgbmo9/ratings_are_easy_to_come_by_but_reviews_are_much/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_tgbmo9</id>
+        <link href="https://www.reddit.com/r/swift/comments/tgbmo9/ratings_are_easy_to_come_by_but_reviews_are_much/" />
+        <updated>2022-03-17T14:34:38+00:00</updated>
+        <published>2022-03-17T14:34:38+00:00</published>
+        <title>Ratings are easy to come by. But reviews are much harder!</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Interesting_Sucker</name>
+            <uri>https://www.reddit.com/user/Interesting_Sucker</uri>
+        </author>
+        <category term="swift" label="r/swift"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone, yesterday I was trying to update Xcode but I stopped it because internet was too poor. Today I clicked to update but it says &amp;quot;insufficient memory&amp;quot;. I don&amp;#39;t understand because I haven&amp;#39;t done anything since yesterday. What is the problem here?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Interesting_Sucker&quot;&gt; /u/Interesting_Sucker &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/tg4vq0/xcode_update_and_macbook_memory_problem/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/tg4vq0/xcode_update_and_macbook_memory_problem/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_tg4vq0</id>
+        <link href="https://www.reddit.com/r/swift/comments/tg4vq0/xcode_update_and_macbook_memory_problem/" />
+        <updated>2022-03-17T07:50:15+00:00</updated>
+        <published>2022-03-17T07:50:15+00:00</published>
+        <title>Xcode update and MacBook Memory problem</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/0xsinefide</name>
+            <uri>https://www.reddit.com/user/0xsinefide</uri>
+        </author>
+        <category term="swift" label="r/swift"/>
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Now that macOS has deprecated Python. Building and running quite a few commands has now broken for me on my M1 Mac mini. Just get the error “env: no python found”. How did you go about fixing/updating your $PATH or linking “python” to “python3”&lt;/p&gt; &lt;p&gt;Mostly looking to be able to build the swift tool chain again and just use visual studio code from the command line&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/0xsinefide&quot;&gt; /u/0xsinefide &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/tg6lj2/dumb_question/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/swift/comments/tg6lj2/dumb_question/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_tg6lj2</id>
+        <link href="https://www.reddit.com/r/swift/comments/tg6lj2/dumb_question/" />
+        <updated>2022-03-17T09:54:32+00:00</updated>
+        <published>2022-03-17T09:54:32+00:00</published>
+        <title>Dumb question</title>
+    </entry>
+</feed>

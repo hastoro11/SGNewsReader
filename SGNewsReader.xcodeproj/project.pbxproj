@@ -8,9 +8,15 @@
 
 /* Begin PBXBuildFile section */
 		2108D44827E5BD9100BD6B52 /* FaviconFinder in Frameworks */ = {isa = PBXBuildFile; productRef = 2108D44727E5BD9100BD6B52 /* FaviconFinder */; };
-		2108D44B27E5CABC00BD6B52 /* reddit.xml in Resources */ = {isa = PBXBuildFile; fileRef = 2108D44A27E5CABC00BD6B52 /* reddit.xml */; };
-		2108D44D27E5D61A00BD6B52 /* portfolio.xml in Resources */ = {isa = PBXBuildFile; fileRef = 2108D44C27E5D61A00BD6B52 /* portfolio.xml */; };
 		2108D45827E712CE00BD6B52 /* SGFeedParser in Frameworks */ = {isa = PBXBuildFile; productRef = 2108D45727E712CE00BD6B52 /* SGFeedParser */; };
+		2108D46127E86CD600BD6B52 /* axios.xml in Resources */ = {isa = PBXBuildFile; fileRef = 2108D45B27E86CD600BD6B52 /* axios.xml */; };
+		2108D46227E86CD600BD6B52 /* guardian.xml in Resources */ = {isa = PBXBuildFile; fileRef = 2108D45C27E86CD600BD6B52 /* guardian.xml */; };
+		2108D46327E86CD600BD6B52 /* 9to5mac.xml in Resources */ = {isa = PBXBuildFile; fileRef = 2108D45D27E86CD600BD6B52 /* 9to5mac.xml */; };
+		2108D46427E86CD600BD6B52 /* portfolio.xml in Resources */ = {isa = PBXBuildFile; fileRef = 2108D45E27E86CD600BD6B52 /* portfolio.xml */; };
+		2108D46527E86CD600BD6B52 /* reddit.xml in Resources */ = {isa = PBXBuildFile; fileRef = 2108D45F27E86CD600BD6B52 /* reddit.xml */; };
+		2108D46627E86CD600BD6B52 /* hvg.xml in Resources */ = {isa = PBXBuildFile; fileRef = 2108D46027E86CD600BD6B52 /* hvg.xml */; };
+		2108D46827E86D0900BD6B52 /* TestData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2108D46727E86D0900BD6B52 /* TestData.swift */; };
+		2108D46B27E872D800BD6B52 /* Util.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2108D46A27E872D800BD6B52 /* Util.swift */; };
 		21B0913027E4F35900F4E96E /* SGNewsReaderApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21B0912F27E4F35900F4E96E /* SGNewsReaderApp.swift */; };
 		21B0913227E4F35900F4E96E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21B0913127E4F35900F4E96E /* ContentView.swift */; };
 		21B0913427E4F35A00F4E96E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21B0913327E4F35A00F4E96E /* Assets.xcassets */; };
@@ -18,10 +24,6 @@
 		21B0914127E4F35A00F4E96E /* SGNewsReaderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21B0914027E4F35A00F4E96E /* SGNewsReaderTests.swift */; };
 		21B0914B27E4F35A00F4E96E /* SGNewsReaderUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21B0914A27E4F35A00F4E96E /* SGNewsReaderUITests.swift */; };
 		21B0914D27E4F35A00F4E96E /* SGNewsReaderUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21B0914C27E4F35A00F4E96E /* SGNewsReaderUITestsLaunchTests.swift */; };
-		21B0915A27E4F37600F4E96E /* axios.xml in Resources */ = {isa = PBXBuildFile; fileRef = 21B0915927E4F37600F4E96E /* axios.xml */; };
-		21B0915C27E4F3A200F4E96E /* guardian.xml in Resources */ = {isa = PBXBuildFile; fileRef = 21B0915B27E4F3A200F4E96E /* guardian.xml */; };
-		21B0915E27E4F3C400F4E96E /* 9to5mac.xml in Resources */ = {isa = PBXBuildFile; fileRef = 21B0915D27E4F3C400F4E96E /* 9to5mac.xml */; };
-		21B0916527E53D9300F4E96E /* hvg.xml in Resources */ = {isa = PBXBuildFile; fileRef = 21B0916427E53D9300F4E96E /* hvg.xml */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,8 +45,14 @@
 
 /* Begin PBXFileReference section */
 		2108D44927E5C11000BD6B52 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
-		2108D44A27E5CABC00BD6B52 /* reddit.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = reddit.xml; sourceTree = "<group>"; };
-		2108D44C27E5D61A00BD6B52 /* portfolio.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = portfolio.xml; sourceTree = "<group>"; };
+		2108D45B27E86CD600BD6B52 /* axios.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = axios.xml; sourceTree = "<group>"; };
+		2108D45C27E86CD600BD6B52 /* guardian.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = guardian.xml; sourceTree = "<group>"; };
+		2108D45D27E86CD600BD6B52 /* 9to5mac.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = 9to5mac.xml; sourceTree = "<group>"; };
+		2108D45E27E86CD600BD6B52 /* portfolio.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = portfolio.xml; sourceTree = "<group>"; };
+		2108D45F27E86CD600BD6B52 /* reddit.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = reddit.xml; sourceTree = "<group>"; };
+		2108D46027E86CD600BD6B52 /* hvg.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = hvg.xml; sourceTree = "<group>"; };
+		2108D46727E86D0900BD6B52 /* TestData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestData.swift; sourceTree = "<group>"; };
+		2108D46A27E872D800BD6B52 /* Util.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Util.swift; sourceTree = "<group>"; };
 		21B0912C27E4F35900F4E96E /* SGNewsReader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SGNewsReader.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		21B0912F27E4F35900F4E96E /* SGNewsReaderApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SGNewsReaderApp.swift; sourceTree = "<group>"; };
 		21B0913127E4F35900F4E96E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,10 +63,6 @@
 		21B0914627E4F35A00F4E96E /* SGNewsReaderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SGNewsReaderUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		21B0914A27E4F35A00F4E96E /* SGNewsReaderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SGNewsReaderUITests.swift; sourceTree = "<group>"; };
 		21B0914C27E4F35A00F4E96E /* SGNewsReaderUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SGNewsReaderUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		21B0915927E4F37600F4E96E /* axios.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = axios.xml; sourceTree = "<group>"; };
-		21B0915B27E4F3A200F4E96E /* guardian.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = guardian.xml; sourceTree = "<group>"; };
-		21B0915D27E4F3C400F4E96E /* 9to5mac.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = 9to5mac.xml; sourceTree = "<group>"; };
-		21B0916427E53D9300F4E96E /* hvg.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = hvg.xml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,17 +92,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		2108D45927E8695100BD6B52 /* TestFiles */ = {
+		2108D45A27E86CD600BD6B52 /* TestFiles */ = {
 			isa = PBXGroup;
 			children = (
-				21B0915927E4F37600F4E96E /* axios.xml */,
-				21B0915B27E4F3A200F4E96E /* guardian.xml */,
-				21B0915D27E4F3C400F4E96E /* 9to5mac.xml */,
-				21B0916427E53D9300F4E96E /* hvg.xml */,
-				2108D44A27E5CABC00BD6B52 /* reddit.xml */,
-				2108D44C27E5D61A00BD6B52 /* portfolio.xml */,
+				2108D45B27E86CD600BD6B52 /* axios.xml */,
+				2108D45C27E86CD600BD6B52 /* guardian.xml */,
+				2108D45D27E86CD600BD6B52 /* 9to5mac.xml */,
+				2108D45E27E86CD600BD6B52 /* portfolio.xml */,
+				2108D45F27E86CD600BD6B52 /* reddit.xml */,
+				2108D46027E86CD600BD6B52 /* hvg.xml */,
 			);
 			path = TestFiles;
+			sourceTree = "<group>";
+		};
+		2108D46927E872C500BD6B52 /* Util */ = {
+			isa = PBXGroup;
+			children = (
+				2108D46A27E872D800BD6B52 /* Util.swift */,
+			);
+			path = Util;
 			sourceTree = "<group>";
 		};
 		21B0912327E4F35900F4E96E = {
@@ -124,6 +136,7 @@
 		21B0912E27E4F35900F4E96E /* SGNewsReader */ = {
 			isa = PBXGroup;
 			children = (
+				2108D46927E872C500BD6B52 /* Util */,
 				2108D44927E5C11000BD6B52 /* Info.plist */,
 				21B0912F27E4F35900F4E96E /* SGNewsReaderApp.swift */,
 				21B0913127E4F35900F4E96E /* ContentView.swift */,
@@ -136,8 +149,9 @@
 		21B0913527E4F35A00F4E96E /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				2108D45927E8695100BD6B52 /* TestFiles */,
+				2108D45A27E86CD600BD6B52 /* TestFiles */,
 				21B0913627E4F35A00F4E96E /* Preview Assets.xcassets */,
+				2108D46727E86D0900BD6B52 /* TestData.swift */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -272,12 +286,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				21B0913727E4F35A00F4E96E /* Preview Assets.xcassets in Resources */,
-				21B0915A27E4F37600F4E96E /* axios.xml in Resources */,
-				2108D44D27E5D61A00BD6B52 /* portfolio.xml in Resources */,
-				21B0915C27E4F3A200F4E96E /* guardian.xml in Resources */,
-				21B0916527E53D9300F4E96E /* hvg.xml in Resources */,
-				21B0915E27E4F3C400F4E96E /* 9to5mac.xml in Resources */,
-				2108D44B27E5CABC00BD6B52 /* reddit.xml in Resources */,
+				2108D46127E86CD600BD6B52 /* axios.xml in Resources */,
+				2108D46427E86CD600BD6B52 /* portfolio.xml in Resources */,
+				2108D46627E86CD600BD6B52 /* hvg.xml in Resources */,
+				2108D46227E86CD600BD6B52 /* guardian.xml in Resources */,
+				2108D46327E86CD600BD6B52 /* 9to5mac.xml in Resources */,
+				2108D46527E86CD600BD6B52 /* reddit.xml in Resources */,
 				21B0913427E4F35A00F4E96E /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -303,6 +317,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2108D46827E86D0900BD6B52 /* TestData.swift in Sources */,
+				2108D46B27E872D800BD6B52 /* Util.swift in Sources */,
 				21B0913227E4F35900F4E96E /* ContentView.swift in Sources */,
 				21B0913027E4F35900F4E96E /* SGNewsReaderApp.swift in Sources */,
 			);
