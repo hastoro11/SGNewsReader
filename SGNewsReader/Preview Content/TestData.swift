@@ -12,7 +12,30 @@ struct TestData {
     
     static var feeds: [Feed] {
         [
-            makeFeed()
+            Feed(
+                title: "Axios",
+                link: "https://www.axios.com/top/",
+                description: "Axios",
+                language: "en-us",
+                imageURL: URL(string: "https://static.axios.com/img/axios-site/favicon-32x32.png")!,
+                pubDate: Util.buildDateFromString("Mon, 21 Mar 2022 07:10:48 +0000"),
+                items: [makeFeedItem(), makeFeedItem(), makeFeedItem()]),
+            Feed(
+                title: "The Guardian",
+                link: "https://www.theguardian.com/uk",
+                description: "Latest news, sport, business, comment, analysis and reviews from the Guardian, the world's leading liberal voice",
+                language: "en-gb",
+                imageURL: URL(string: "https://assets.guim.co.uk/images/favicons/1fe70b29879674433702d5266abcb0d4/144x144.png")!,
+                pubDate: Util.buildDateFromString("Mon, 21 Mar 2022 16:41:46 GMT"),
+                items: [makeFeedItem(), makeFeedItem(), makeFeedItem()]),
+            Feed(
+                title: "Portfolio.hu - Összes hír",
+                link: "https://www.portfolio.hu",
+                description: "Összes hír - 20 legfrissebb hír",
+                language: "hu-HU",
+                imageURL: URL(string: "https://assets.portfolio.hu/images/favicon/apple-icon-114x114.png")!,
+                pubDate: Util.buildDateFromString("Mon, 21 Mar 2022 18:06:16 +0100"),
+                items: [makeFeedItem(), makeFeedItem(), makeFeedItem()]),
         ]
     }
     
