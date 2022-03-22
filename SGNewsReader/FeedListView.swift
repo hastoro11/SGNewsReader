@@ -13,46 +13,40 @@ struct FeedListView: View {
     var feeds: [Feed]
     
     var body: some View {
-        List {
+        ScrollView {
             DisclosureGroup(isExpanded: .constant(true)) {
-                FeedRow(icon: "circle.inset.filled", color: .blue, imageURL: nil, title: "Unread", count: 234)
-                FeedRow(icon: "bookmark", color: .orange, imageURL: nil, title: "Bookmarked", count: 12)
+                VStack {
+                    FeedRow(icon: "circle.inset.filled", color: .blue, imageURL: nil, title: "Unread", count: 234)
+                    FeedRow(icon: "bookmark", color: .orange, imageURL: nil, title: "Bookmarked", count: 12)
+                }
+                .padding(EdgeInsets(top: 0, leading: 20, bottom: 8, trailing: 8))
             } label: {
                 Text("SMART FEEDS")
                     .foregroundColor(.secondary)
+                    .padding(8)
             }
-            .listRowSeparator(.hidden)
+//            .listRowSeparator(.hidden)
 
             DisclosureGroup(isExpanded: .constant(true)) {
                 ForEach(feeds) { feed in
-                    HStack {
                         FeedRow(icon: nil, color: nil, imageURL: feed.imageURL, title: feed.title, count: feed.items.count)
-//                        AsyncImage(
-//                            url: feed.imageURL) { image in
-//                                image.resizable()
-//                            } placeholder: {
-//                                Image(systemName: "photo")
-//                            }
-//                            .frame(width: 24, height: 24)
-//                        Text(feed.title)
-//                        Spacer()
-//                        Text("\(feed.items.count)")
-//                            .countCaption()
-                    }
+                        .padding(EdgeInsets(top: 0, leading: 20, bottom: 8, trailing: 8))
                 }
             } label: {
                 HStack {
                     Label("News".uppercased(), systemImage: "newspaper")
                         .foregroundColor(.secondary)
+                        .padding(8)
                     Spacer()
                     Text("122")
                         .countCaption()
                 }
             }
-            .listRowSeparator(.hidden)
+//            .listRowSeparator(.hidden)
             
         }
-        .listStyle(.plain)
+//        .listStyle(.plain)
+        .padding()
         .navigationTitle("Feeds")
     }
 }
