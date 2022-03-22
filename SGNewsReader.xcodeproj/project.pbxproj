@@ -17,6 +17,9 @@
 		2108D46627E86CD600BD6B52 /* hvg.xml in Resources */ = {isa = PBXBuildFile; fileRef = 2108D46027E86CD600BD6B52 /* hvg.xml */; };
 		2108D46827E86D0900BD6B52 /* TestData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2108D46727E86D0900BD6B52 /* TestData.swift */; };
 		2108D46B27E872D800BD6B52 /* Util.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2108D46A27E872D800BD6B52 /* Util.swift */; };
+		2108D46D27E8D98B00BD6B52 /* FeedListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2108D46C27E8D98B00BD6B52 /* FeedListView.swift */; };
+		2108D47027E8E71E00BD6B52 /* Feed+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2108D46F27E8E71E00BD6B52 /* Feed+Extension.swift */; };
+		218955D827EA4C8400864928 /* ViewModifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 218955D727EA4C8400864928 /* ViewModifiers.swift */; };
 		21B0913027E4F35900F4E96E /* SGNewsReaderApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21B0912F27E4F35900F4E96E /* SGNewsReaderApp.swift */; };
 		21B0913227E4F35900F4E96E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21B0913127E4F35900F4E96E /* ContentView.swift */; };
 		21B0913427E4F35A00F4E96E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21B0913327E4F35A00F4E96E /* Assets.xcassets */; };
@@ -53,6 +56,9 @@
 		2108D46027E86CD600BD6B52 /* hvg.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = hvg.xml; sourceTree = "<group>"; };
 		2108D46727E86D0900BD6B52 /* TestData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestData.swift; sourceTree = "<group>"; };
 		2108D46A27E872D800BD6B52 /* Util.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Util.swift; sourceTree = "<group>"; };
+		2108D46C27E8D98B00BD6B52 /* FeedListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedListView.swift; sourceTree = "<group>"; };
+		2108D46F27E8E71E00BD6B52 /* Feed+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Feed+Extension.swift"; sourceTree = "<group>"; };
+		218955D727EA4C8400864928 /* ViewModifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModifiers.swift; sourceTree = "<group>"; };
 		21B0912C27E4F35900F4E96E /* SGNewsReader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SGNewsReader.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		21B0912F27E4F35900F4E96E /* SGNewsReaderApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SGNewsReaderApp.swift; sourceTree = "<group>"; };
 		21B0913127E4F35900F4E96E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -113,6 +119,22 @@
 			path = Util;
 			sourceTree = "<group>";
 		};
+		2108D46E27E8E71000BD6B52 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				2108D46F27E8E71E00BD6B52 /* Feed+Extension.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		218955D627EA4C7400864928 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				218955D727EA4C8400864928 /* ViewModifiers.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
 		21B0912327E4F35900F4E96E = {
 			isa = PBXGroup;
 			children = (
@@ -136,10 +158,13 @@
 		21B0912E27E4F35900F4E96E /* SGNewsReader */ = {
 			isa = PBXGroup;
 			children = (
-				2108D46927E872C500BD6B52 /* Util */,
 				2108D44927E5C11000BD6B52 /* Info.plist */,
-				21B0912F27E4F35900F4E96E /* SGNewsReaderApp.swift */,
+				218955D627EA4C7400864928 /* Extensions */,
+				2108D46927E872C500BD6B52 /* Util */,
 				21B0913127E4F35900F4E96E /* ContentView.swift */,
+				2108D46E27E8E71000BD6B52 /* Model */,
+				2108D46C27E8D98B00BD6B52 /* FeedListView.swift */,
+				21B0912F27E4F35900F4E96E /* SGNewsReaderApp.swift */,
 				21B0913327E4F35A00F4E96E /* Assets.xcassets */,
 				21B0913527E4F35A00F4E96E /* Preview Content */,
 			);
@@ -318,7 +343,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				2108D46827E86D0900BD6B52 /* TestData.swift in Sources */,
+				218955D827EA4C8400864928 /* ViewModifiers.swift in Sources */,
+				2108D47027E8E71E00BD6B52 /* Feed+Extension.swift in Sources */,
 				2108D46B27E872D800BD6B52 /* Util.swift in Sources */,
+				2108D46D27E8D98B00BD6B52 /* FeedListView.swift in Sources */,
 				21B0913227E4F35900F4E96E /* ContentView.swift in Sources */,
 				21B0913027E4F35900F4E96E /* SGNewsReaderApp.swift in Sources */,
 			);
